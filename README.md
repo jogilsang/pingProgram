@@ -14,13 +14,13 @@ Image
 =============
 
 ![Alt text](/pingProgram/1.png)
-![Alt text](/8.png)
-![Alt text](/10.png)
-![Alt text](/11.png)
-![Alt text](/15.png)
-![Alt text](/16.png)
-![Alt text](/23.png)
-![Alt text](/25.png)
+![Alt text](/pingProgram/8.png)
+![Alt text](/pingProgram/10.png)
+![Alt text](/pingProgram/11.png)
+![Alt text](/pingProgram/15.png)
+![Alt text](/pingProgram/16.png)
+![Alt text](/pingProgram/23.png)
+![Alt text](/pingProgram/25.png)
 
 <hr/>
 
