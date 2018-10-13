@@ -30,6 +30,9 @@ Contents
 c언어로 win32 api를 이용한 간단한 네트워크 관련 프로그램 제작과정
 https://blog.naver.com/jogilsang/220917243301
 
+Dev C++ 언어 한글(Korean) 설정 및 컴파일 해보기
+https://blog.naver.com/jogilsang/220915295813
+
 
 Cotact
 =============
