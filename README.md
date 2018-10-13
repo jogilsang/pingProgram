@@ -3,13 +3,6 @@
 win32api 기반 C언어로 구성된 첫 프로그램
 2017.01.22 완성
 
-Introduce
-=============
-
-컴퓨터의 ip와 gateway, dns를 설정할수있다
-여러 ip로 ping을 날릴수있다
-그외 부가적인 기능을 수행한다
-
 Image
 =============
 
@@ -24,9 +17,15 @@ Image
 
 <hr/>
 
-Contents
+Introduce
 =============
 
+컴퓨터의 ip와 gateway, dns를 설정할수있다
+여러 ip로 ping을 날릴수있다
+그외 부가적인 기능을 수행한다
+
+Contents
+=============
 
 c언어로 win32 api를 이용한 간단한 네트워크 관련 프로그램 제작과정
 https://blog.naver.com/jogilsang/220917243301
@@ -54,7 +53,7 @@ Donate
 =============
 Bitcoin : 351pQjDFFWW61HHKcSFQHcEMNYy4rP91ex
 
-etherium : 0xb2470124ac43a955c36d7a21e208fae5d0d5d2e0
+Etherium : 0xb2470124ac43a955c36d7a21e208fae5d0d5d2e0
 
 License
 =============
