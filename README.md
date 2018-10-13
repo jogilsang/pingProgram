@@ -13,7 +13,7 @@ Introduce
 Image
 =============
 
-![Alt text](/1.png)
+![Alt text](/pingProgram/1.png)
 ![Alt text](/8.png)
 ![Alt text](/10.png)
 ![Alt text](/11.png)
